@@ -1,6 +1,6 @@
 ### Hi,
 
-I’m [**Vinit Kumar Patwa**](https://vinitkumarpatwa.netlify.app/), a young entrepreneur and founder of Anvix Studio, and also a frontend web developer from Bihar, India.
+I’m [**Vinit Kumar Patwa**](https://vinitkumarpatwa.netlify.app/), a young entrepreneur and the founder of Anvix Studio, and also a frontend web developer from Bihar, India.
 
 **These days I’m focused on:**
 - SEO
