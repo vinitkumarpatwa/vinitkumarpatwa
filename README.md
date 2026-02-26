@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi,
 
-<!--
-**vinitkumarpatwa/vinitkumarpatwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Vinit Kumar Patwa**](https://vinitkumarpatwa.netlify.app/), a young entrepreneur and founder of Anvix Studio, and also a frontend web developer from Bihar, India.
 
-Here are some ideas to get you started:
+**These days I’m focused on:**
+- React, TypeScript, Tailwind
+- UI components with subtle motion
+- Small, thoughtful projects with polish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Some stuff I built:**
+- [VKP](https://github.com/vinitkumarpatwa/vkp) -  A Short brand name representer
+
+---
+
+**Fun Facts:**
+
+* I don’t like coffee or tea
+* Demon Slayer is my favorite anime
+* **Hobbies:** anime & gym
