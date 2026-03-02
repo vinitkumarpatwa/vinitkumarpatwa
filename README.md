@@ -1,6 +1,6 @@
 # Hi, I'm Vinit Kumar Patwa 👋
 
-🚀 Frontend Web Developer | Designer | Coder  
+🚀 Web Developer | Designer | Coder  
 📍 Nalanda, Bihar, India  
 
 I believe in hard work, continuous learning, and building practical real-world projects.  
