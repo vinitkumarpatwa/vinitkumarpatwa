@@ -12,7 +12,7 @@ My focus is on creating clean, functional, and performance-oriented web applicat
 
 ### 🔹 V.Chat – Realtime Text-Based Chat Application
 
-V.Chat is a realtime text-based web chat application developed with secure login functionality and Firebase backend integration.
+V.Chat, also known as Vinit Chat, is a realtime text-based web chat application developed with secure login functionality and Firebase backend integration.
 
 🔗 Live App:  
 https://vinitkumarpatwa.netlify.app/apps/vchat/
