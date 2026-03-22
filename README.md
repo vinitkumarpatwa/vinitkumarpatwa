@@ -10,6 +10,21 @@ My focus is on creating clean, functional, and performance-oriented web applicat
 
 ## 💼 Featured Project
 
+### 🔹 Vinnify - Music Player
+
+Vinnify is an ad-free music player that works directly in your browser and supports offline playback once loaded. Developed with a clean and intuitive UI for smooth music listening.
+
+🔗 Live App:  
+https://vinitkumarpatwa.netlify.app/apps/vinnify/
+
+**Tech Stack Used:**
+- HTML5
+- CSS3
+- JavaScript
+- Offline Browser Caching
+
+---
+
 ### 🔹 V.Chat – Realtime Text-Based Chat Application
 
 V.Chat, also known as Vinit Chat, is a realtime text-based web chat application developed with secure login functionality and Firebase backend integration.
@@ -25,7 +40,6 @@ https://vinitkumarpatwa.netlify.app/apps/vchat/download/
 - CSS3
 - JavaScript
 - Firebase Realtime Database
-- Netlify Hosting
 
 ---
 
